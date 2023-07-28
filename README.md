@@ -1,11 +1,11 @@
 # Netflix-Clone-Tailwind-CSS
-Static Netflix landing page clone
+Static Netflix landing page clone..
 
 
 # Tech used 
 ```
 - HTML5
-- TailwindCSS
+- Tailwind CSS
 ```
 
 # Screenshot
